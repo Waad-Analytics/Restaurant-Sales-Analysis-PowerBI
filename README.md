@@ -8,6 +8,7 @@ Power BI – Data modeling, DAX, visualization
 Power Query – Data cleaning & transformation
 Figma – Custom dashboard background design
 
+
 📊 Key Insights 
 Total Orders: 5,000
 Total Income: 159,220 SAR
@@ -49,4 +50,5 @@ KPI cards with DAX measures
 🌐 Author 
 
 Waad Mohsn
+
  Data Analyst | Power BI | Dashboard Designer 
