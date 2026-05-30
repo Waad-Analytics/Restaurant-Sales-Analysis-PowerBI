@@ -44,6 +44,8 @@ KPI cards with DAX measures
 📸 Dashboard Preview 
 ![Dashboard](images/SharedScreenshotFor Home page)
 ![Dashboard](images/SharedScreenshotFor Detailes Page)
+
+
 🌐 Author 
 
 Waad Mohsn
