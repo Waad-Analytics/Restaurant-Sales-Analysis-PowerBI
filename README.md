@@ -1,6 +1,13 @@
-Restaurant Sales Analysis Dashboard – Power BI
+## Restaurant Sales Analysis Dashboard – Power BI
 
 A complete end-to-end restaurant sales analysis dashboard built using Power BI, Power Query, and a custom UI designed in Figma.
+
+# Business Objectives
+
+The goal of this project is to analyze restaurant sales performance, identify top-selling products, 
+understand customer purchasing patterns,and provide actionable insights to support business decisions.
+
+
 
 🧰 Tools Used
 
@@ -34,6 +41,12 @@ Built a star schema model
 
 Created DAX measures for KPIs and time intelligence
 
+📁 Data Model
+
+A star schema model was built to improve performance and ensure accurate reporting.
+Fact and dimension tables were connected using one-to-many relationships.
+
+
 🎨 Dashboard Design
 
 Custom background created in Figma
@@ -57,20 +70,31 @@ Data Model (PNG)
 📸 Dashboard Preview
 
 Home Page
-
-https://github.com/Waad-Analytics/Restaurant-Sales-Analysis-PowerBI/blob/main/assets/images/Dashboard_HomePage.jpg
+![Home Page](assets/images/Dashboard_HomePage.jpg)
 
 Details Page
 
-https://github.com/Waad-Analytics/Restaurant-Sales-Analysis-PowerBI/blob/main/assets/images/Dashboard_DetailsPage.jpg
+![Details Page](assets/images/Dashboard_DetailsPage.jpg)
 
 Data Model
 
-https://github.com/Waad-Analytics/Restaurant-Sales-Analysis-PowerBI/blob/main/assets/images/Data%20Model%20for%20Resturant_Sales_Analysis.jpg
+![Data Model](assets/images/Data%20Model%20for%20Resturant_Sales_Analysis.jpg)
+
+
+## Skills Demonstrated
+- Data Cleaning
+- Data Modeling
+- DAX Measures
+- KPI Development
+- Dashboard Design
+- Data Visualization
+- Business Analysis
+
 
 
 🌐 Author
 
 Waad Mohsn
+Aspiring Data Analyst
 
-Data Analyst | Power BI | Dashboard Designer
+Power BI | Excel | Power Query | DAX
