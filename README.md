@@ -57,7 +57,7 @@ README documentation
 📸 Dashboard Preview
 
 Home Page
-https://raw.githubusercontent.com/Waad-Analytics/Restaurant-Sales-Analysis-PowerBI/main/SharedScreenshotFor%20Home%20page.jpg
+https://github.com/Waad-Analytics/Restaurant-Sales-Analysis-PowerBI/blob/main/Dashboard_HomePage.jpg
 
 Details Page
 https://raw.githubusercontent.com/Waad-Analytics/Restaurant-Sales-Analysis-PowerBI/main/SharedScreenshotFor%20Details%20Page.jpg
