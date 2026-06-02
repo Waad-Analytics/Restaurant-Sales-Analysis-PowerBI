@@ -52,16 +52,19 @@ Figma background (PNG)
 
 Dashboard screenshots
 
-README documentation
+Data Model (PNG)
 
 📸 Dashboard Preview
 
 Home Page
-https://github.com/Waad-Analytics/Restaurant-Sales-Analysis-PowerBI/blob/main/Dashboard_HomePage.jpg
+
+https://github.com/Waad-Analytics/Restaurant-Sales-Analysis-PowerBI/blob/main/assets/images/Dashboard_HomePage.jpg
 
 Details Page
-https://github.com/Waad-Analytics/Restaurant-Sales-Analysis-PowerBI/blob/main/Dashboard_DetailsPage.jpg
 
+https://github.com/Waad-Analytics/Restaurant-Sales-Analysis-PowerBI/blob/main/assets/images/Dashboard_DetailsPage.jpg
+
+Data Model
 
 🌐 Author
 
