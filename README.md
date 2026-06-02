@@ -56,13 +56,6 @@ Data Model (PNG)
 
 📸 Dashboard Preview
 
-## 📸 Dashboard Preview
-
-![Home Page](assets/images/home-page.png)
-![Details Page](assets/images/details-page.png)
-![Data Model](assets/images/data-model.png)
-
-
 Home Page
 
 https://github.com/Waad-Analytics/Restaurant-Sales-Analysis-PowerBI/blob/main/assets/images/Dashboard_HomePage.jpg
