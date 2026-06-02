@@ -61,6 +61,8 @@ https://github.com/Waad-Analytics/Restaurant-Sales-Analysis-PowerBI/blob/main/Da
 
 Details Page
 https://github.com/Waad-Analytics/Restaurant-Sales-Analysis-PowerBI/blob/main/Dashboard_DetailsPage.jpg
+
+
 🌐 Author
 
 Waad Mohsn
